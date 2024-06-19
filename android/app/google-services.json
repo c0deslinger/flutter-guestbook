@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367354658089",
+    "project_id": "guestbook-app-21354",
+    "storage_bucket": "guestbook-app-21354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367354658089:android:553ff109bbfde637748b38",
+        "android_client_info": {
+          "package_name": "com.paperplay.guestbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5fK_0pFC5vFF-cZvrsDuLWMSZVH68ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
